@@ -10,8 +10,11 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cassioluciano_98&cover_image=true&theme=novatorem&show_offline=true&background_color=525252&interchange=true&bar_color=ff0a0a&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-![ Github stats](https://github-readme-stats.vercel.app/api?username=cassioluciano98&theme=chartreuse-dark)
-![ GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cassioluciano98&theme=chartreuse-dark)
+<!--![ Github stats](https://github-readme-stats.vercel.app/api?username=cassioluciano98&theme=chartreuse-dark)
+![ GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cassioluciano98&theme=chartreuse-dark)-->
+
+![cassioluciano98's Stats](https://github-readme-stats.vercel.app/api?username=cassioluciano98&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+![cassioluciano98's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cassioluciano98&theme=chartreuse-dark&show_icons=true&hide_border=true)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassioluciano98)
 
